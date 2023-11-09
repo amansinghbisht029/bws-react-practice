@@ -1,3 +1,7 @@
+# Preview
+
+https://github.com/amansinghbisht029/bws-react-practice/assets/83057532/60b7dd8e-6dc1-4604-acff-ef3089b98c0d
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
